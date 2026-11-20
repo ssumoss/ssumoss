@@ -1,6 +1,6 @@
 # Hi, I'm Sümeyye Var! 👋
 
-### Software Developer | Backend Development | AI & Technology Enthusiast
+### Management Information Systems Graduate | Software Development | Backend & AI Enthusiast
 
 ## 👩‍💻 About Me
 I'm a Management Information Systems graduate from Dokuz Eylül University. I'm interested in software development, backend engineering, database management, and artificial intelligence.
