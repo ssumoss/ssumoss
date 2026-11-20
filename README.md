@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Sümeyye Var! 👋
 
-<!--
-**ssumoss/ssumoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Backend Development | AI & Technology Enthusiast
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+I'm a Management Information Systems graduate from Dokuz Eylül University. I'm interested in software development, backend engineering, database management, and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, developing software solutions, and improving my problem-solving skills.
+
+## 💼 Work
+- Interested in backend development and software engineering.
+- Experienced in developing RESTful APIs using Python and FastAPI.
+- Familiar with Node.js and database-driven applications.
+- Interested in AI-powered applications and technology integration.
+- Experienced in working with relational databases and data analysis.
+
+## 🛠️ Skills
+
+**Programming Languages**
+- Python
+- JavaScript
+- SQL
+- HTML & CSS
+
+**Backend & Frameworks**
+- FastAPI
+- Node.js
+- RESTful APIs
+
+**Databases**
+- MySQL
+- PostgreSQL
+- Supabase
+
+**AI & Data**
+- PyTorch
+- Machine Learning
+- Deep Learning
+- CNN
+- Power BI
+- Microsoft Excel
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Linux
+- Raspberry Pi
+- WordPress
+- Joomla
+
+## 🌱 Currently Learning
+- Go (Golang)
+
+## 🎓 Education
+**Dokuz Eylül University**  
+Bachelor's Degree in Management Information Systems (2023–2026)
+
+**Akdeniz University**  
+Bachelor's Degree in Management Information Systems (2022–2023)
+
+## 🌍 Languages
+- English: Upper-Intermediate
+
+## 📫 Connect With Me
+- LinkedIn: [Sümeyye Var](https://www.linkedin.com/in/s%C3%BCmeyye-var-a890322b7/)
+- GitHub: [@ssumoss](https://github.com/ssumoss)
+- Email: sumeyyevar2@gmail.com
+
+---
+
+*Always learning, always improving. 🚀*
