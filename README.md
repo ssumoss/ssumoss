@@ -68,4 +68,8 @@ Bachelor's Degree in Management Information Systems (2022–2023)
 
 ---
 
-*Always learning, always improving. 🚀*
+## 🐍 GitHub Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ssumoss/ssumoss/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
